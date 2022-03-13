@@ -2,7 +2,7 @@
 
 **Lifelong Learning**
 
-👋 Hi, I’m @XHeapStack，a FrontEnd developer.
+👋 Hi, I’m @XHeapStack，a front-end developer.
 
 Interested in:
 - Rust
